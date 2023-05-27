@@ -1,0 +1,6 @@
+<?php
+
+$connection = mysqli_connect('localhost', 'realihwd_data', 'j9PfQ?&M=K0H', 'realihwd_data');
+$connect = new PDO("mysql:host=localhost; dbname=realihwd_data", "realihwd_data", "j9PfQ?&M=K0H");
+
+?>
